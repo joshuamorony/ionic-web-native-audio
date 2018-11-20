@@ -1,0 +1,6 @@
+{
+  "appId": "com.joshmorony.nativeaudio",
+  "appName": "nativeaudio",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

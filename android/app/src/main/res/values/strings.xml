@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nativeaudio</string>
+    <string name="title_activity_main">nativeaudio</string>
+    <string name="package_name">com.joshmorony.nativeaudio</string>
+    <string name="fileprovider_authority">com.joshmorony.nativeaudio.fileprovider</string>
+    <string name="custom_url_scheme">com.joshmorony.nativeaudio</string>
+</resources>
